@@ -48,7 +48,7 @@ C25.3
 
 
 
-\## 👩‍💻 Author
+\## Author
 
 Beatrice Cecchini
 
