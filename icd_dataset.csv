@@ -1,0 +1,111 @@
+text,code
+Tumore maligno del dotto pancreatico,C25.3
+Neoplasia maligna del dotto pancreatico,C25.3
+Carcinoma del dotto pancreatico,C25.3
+Lesione maligna del dotto pancreatico,C25.3
+Paziente con tumore del dotto pancreatico,C25.3
+Tumore maligno secondario della pleura,C78.2
+Neoplasia secondaria della pleura,C78.2
+Carcinoma secondario della pleura,C78.2
+Localizzazione secondaria maligna della pleura,C78.2
+Paziente con metastasi pleurica maligna,C78.2
+Carcinoma della mammella,C50.9
+Neoplasia maligna della mammella,C50.9
+Tumore maligno della mammella,C50.9
+Lesione maligna mammaria,C50.9
+Paziente con tumore della mammella,C50.9
+Diabete mellito di tipo 2,E11
+Paziente affetto da diabete mellito tipo 2,E11
+Diabete tipo 2,E11
+Diabete mellito non insulino dipendente,E11
+Quadro clinico compatibile con diabete mellito di tipo 2,E11
+Infarto miocardico acuto,I21
+Paziente con infarto miocardico acuto,I21
+Quadro di infarto acuto del miocardio,I21
+Evento ischemico cardiaco acuto,I21
+Acuto infarto del miocardio,I21
+Insufficienza cardiaca congestizia,I50.0
+Paziente con scompenso cardiaco congestizio,I50.0
+Quadro di insufficienza cardiaca congestizia,I50.0
+Scompenso cardiaco con congestione,I50.0
+Insufficienza cardiaca con componente congestizia,I50.0
+Polmonite batterica,J15
+Paziente con polmonite batterica,J15
+Quadro compatibile con polmonite di origine batterica,J15
+Infezione polmonare batterica,J15
+Polmonite sostenuta da batteri,J15
+Appendicite acuta,K35.8
+Paziente con appendicite acuta,K35.8
+Infiammazione acuta dell'appendice,K35.8
+Quadro clinico di appendicite in fase acuta,K35.8
+Appendice acutamente infiammata,K35.8
+Emorragia gastrointestinale,K92.2
+Paziente con sanguinamento gastrointestinale,K92.2
+Quadro di emorragia digestiva,K92.2
+Sanguinamento a carico del tratto gastrointestinale,K92.2
+Emorragia del tratto digerente,K92.2
+Frattura del femore,S72.9
+Paziente con frattura femorale,S72.9
+Rottura ossea del femore,S72.9
+Trauma con frattura del femore,S72.9
+Frattura a carico del femore,S72.9
+Ictus cerebrale ischemico,I63.9
+Paziente con ictus ischemico,I63.9
+Evento cerebrovascolare ischemico,I63.9
+Stroke ischemico,I63.9
+Accidente cerebrovascolare di natura ischemica,I63.9
+Insufficienza renale acuta,N17.9
+Paziente con insufficienza renale acuta,N17.9
+Quadro di danno renale acuto,N17.9
+Compromissione acuta della funzione renale,N17.9
+Acute kidney injury,N17.9
+Sepsi,A41.9
+Paziente con sepsi,A41.9
+Quadro settico sistemico,A41.9
+Infezione sistemica con sepsi,A41.9
+Condizione clinica compatibile con sepsi,A41.9
+Broncopneumopatia cronica ostruttiva,J44.9
+Paziente con BPCO,J44.9
+Broncopneumopatia cronica ostruttiva in anamnesi,J44.9
+Malattia polmonare ostruttiva cronica,J44.9
+Quadro di BPCO,J44.9
+Ipertensione essenziale,I10
+Paziente con ipertensione arteriosa essenziale,I10
+Ipertensione primaria,I10
+Pressione arteriosa elevata da ipertensione essenziale,I10
+Quadro di ipertensione essenziale,I10
+Colecistite acuta,K81.0
+Paziente con colecistite acuta,K81.0
+Infiammazione acuta della colecisti,K81.0
+Quadro compatibile con colecistite in fase acuta,K81.0
+Colecisti acutamente infiammata,K81.0
+Anemia da perdita ematica acuta,D62
+Paziente con anemia da perdita ematica acuta,D62
+Riduzione dell'emoglobina per sanguinamento acuto,D62
+Anemia post-emorragica acuta,D62
+Quadro di anemia secondaria a perdita ematica acuta,D62
+Fibrillazione atriale,I48.9
+Paziente con fibrillazione atriale,I48.9
+Aritmia compatibile con fibrillazione atriale,I48.9
+Quadro elettrocardiografico di fibrillazione atriale,I48.9
+Fibrillazione atriale non specificata,I48.9
+Polmonite virale,J12.9
+Paziente con polmonite virale,J12.9
+Infezione polmonare di origine virale,J12.9
+Quadro di polmonite virale,J12.9
+Polmonite causata da virus,J12.9
+Gastroenterite infettiva,A09
+Paziente con gastroenterite infettiva,A09
+Diarrea infettiva acuta,A09
+Quadro di gastroenterite di origine infettiva,A09
+Enterite e gastroenterite infettiva,A09
+Asma bronchiale,J45.9
+Paziente con asma bronchiale,J45.9
+Quadro clinico di asma,J45.9
+Malattia asmatica bronchiale,J45.9
+Asma non specificata,J45.9
+Ulcera gastrica,K25.9
+Paziente con ulcera gastrica,K25.9
+Lesione ulcerativa dello stomaco,K25.9
+Quadro di ulcera a carico dello stomaco,K25.9
+Ulcera dello stomaco non specificata,K25.9
